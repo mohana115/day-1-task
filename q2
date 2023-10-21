@@ -1,0 +1,19 @@
+Write a blog about objects and its internal representation in Javascript
+
+1.Objects representation in javascript.
+   * The most important data - type and forms the building block for      modern java script.
+   * Object are quite different from java script's primitive data - type in the sense that while this primitive data types all store a single value .
+   * It is more complex and each object may contain any combination of this primitive date type .
+   * It is a reffernce date type. 
+   * It can be created with brackets { } with an optional list of properties. 
+
+2. Internal representation in java script 
+    * The java script standard allows developers to define objects in a very flexible way.
+    * It  is hard to come up with an efficient representation that work for everything .
+    * Object is essentially a collection of properties. 
+    * Property names are always strings .
+    * If we use a name that is not a strings. It is immplicity converted to a strings. so the object is basically a map from string to values 
+
+
+
+
